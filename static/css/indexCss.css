@@ -12,30 +12,7 @@ body {
     background-color: gray;
 }
 
-.footer-containor {
-    margin: auto;
-    margin-top: 50px;
-    width: 90%;
-    height: 200px;
-    background-color: gray;
-}
-
-#contact-containor {
-    margin-top: 50px;
-    width: 45%;
-    height: 100px;
-    background-color: yellow;
-    float: left;
-}
-
-#about-containor {
-    width: 45%;
-    height: 100px;
-    background-color: green;
-    float: right;
-}
-
-.footer-div {
+.main-containor .footer-div {
     margin-top: 50px;
     margin: auto;
     width: 90%;
@@ -47,13 +24,12 @@ body {
 .footer-div .left-footer-block {
     width: 47%;
     background: #ccffd9;
-    height: 50px;
-    float: right;
+    height: 200px;
 }
 
 .footer-div .right-footer-block {
     margin-right: 0px;
     width: 47%;
     background: #ded3de;
-    height: 50px;
+    height: 200px;
 }
